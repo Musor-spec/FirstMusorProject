@@ -1,0 +1,6 @@
+@FirstMusorProject_HostAddress = http://localhost:5132
+
+GET {{FirstMusorProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
