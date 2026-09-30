@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstMusorProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38eb085378eeb65bb451649734c2c3c55bc38f81")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstMusorProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstMusorProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
